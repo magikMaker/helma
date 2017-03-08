@@ -1,0 +1,9 @@
+{
+  "name": "helma",
+  "version": "0.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "repository": "git@github.com:magikMaker/helma.git",
+  "author": "Bjørn Wikkeling",
+  "license": "MIT"
+}
